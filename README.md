@@ -60,15 +60,6 @@ Ajudar a sorveteria a acompanhar o estoque e reduzir desperdícios. Se dois lote
 │       ├── organico.jsx     manchas, ondas e ilustrações (paradas)
 │       ├── estoque.js       regras de data, situação e prioridade
 │       └── api.js           chamadas à API Haskell
-│   └── src/
-│       ├── main.jsx         estado geral, carregamento e navegação
-│       ├── componentes.jsx  menu, título das páginas, rodapé, transição
-│       ├── Editor.jsx       janela de edição (formulários e validação)
-│       ├── paginas/         Vitrine.jsx, Estoque.jsx, Cardapio.jsx
-│       ├── api.js           chamadas à API Haskell
-│       ├── estoque.js       regras de data, situação e prioridade
-│       ├── AbreVitrine.jsx  topo animado da Vitrine
-│       ├── organico.jsx     manchas, ondas e ilustrações
 │       └── style.css
 └── compose.yaml             sobe MySQL + API + front
 ```
